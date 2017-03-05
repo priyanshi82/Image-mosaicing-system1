@@ -1,5 +1,9 @@
 # Image-mosaicing-system1
 
+Project Supervisor Name - Dr. Rajiv Kumar
+GroupMates - Rakhi Singh and Richa Anand
+Group No. - 26
+
 Image mosaicing is the process in which different photographic images are integrated together to form a segmented panorama or a high resolution image. Multiple images are overlapped and blended to form a wide angle panoramic image. Image mosaicing creates a large field of view using of scene and the result image can be used for texture mapping of a 3D environment too.Image mosaicing consists of basic three steps: 
 Image Acquisition
 Image Registration
